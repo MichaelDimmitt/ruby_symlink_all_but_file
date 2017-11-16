@@ -1,3 +1,8 @@
+# Option 2
+Since we are scripting ... make all the folder... make all the symlinks individual files.
+<br>Therefore you could easily remove whatever folder you want to. 
+
+
 # ruby_symlink_all_but_file
 
 parameters to run the script ... (1) pwd (2) repo name (destination) we will by default put on desktop unless exists.
